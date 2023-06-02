@@ -27,7 +27,7 @@
     {
       "text": "Shattered Realm",
       "day": "May 22nd",
-      "reminder": false,
+      "reminder": true,
       "id": 5
     }
   ]
