@@ -17,6 +17,18 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": true
+    },
+    {
+      "text": "Test task",
+      "day": "May 8th",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Shattered Realm",
+      "day": "May 22nd",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
